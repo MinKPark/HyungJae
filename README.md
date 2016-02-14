@@ -1,2 +1,2 @@
-# HyungJae
-First app with Kyong Ho to use Cordova
+# About this App
+TBD
