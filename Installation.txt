@@ -1,0 +1,5 @@
+Things to install
+1. Android Studio
+   http://developer.android.com/sdk/index.html?gclid=CjwKEAiAo7C2BRDgqODGq5r38DsSJAAv7dTPksyAwRGeCJGt4vE86bdp9aa0uCxTv5lfLKYVbUkiMhoCucvw_wcB
+2. Install Java SDK
+   http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
